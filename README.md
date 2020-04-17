@@ -14,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Running
 
-Update Constants.java file with root url of comics and the time range for which you want to download it.
+Update Constants.java file with root url of comics and the date range for which you want to download it.
 For e.g.
 
 ```
